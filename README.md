@@ -2,7 +2,7 @@
 
 XIV Certamen Incubadora de Sondeos y Experimentos
 
-Título: Análisis estadístico de la evolución del COVID-19. Caso de estudio: Madrid
+Título: Análisis estadístico de la evolución del COVID-19. Caso de Estudio: Madrid
 
 Licencia de uso:
 
